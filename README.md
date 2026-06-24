@@ -1,4 +1,4 @@
-<img width="5400" height="1080" alt="Carrosell Infinito" src="https://github.com/user-attachments/assets/a685f4ca-19d7-4da8-945f-8191e05a108e" />
+![Uploading Carrosell Infinito.png…]()
 
 # Olá, eu sou o Jonathan Silva Rios! 👋
 __________________________
