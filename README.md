@@ -1,4 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/v2/D4D16AQHMjpyOaBgPGA/profile-displaybackgroundimage-shrink_200_800/B4DZUlw_kmG4AU-/0/1740095356317?e=2147483647&v=beta&t=sNy7YFqHzp7VGmtpVV4Sch_KztERcsj10nkancKkxb4)
+<img width="5400" height="1080" alt="Carrosell Infinito" src="https://github.com/user-attachments/assets/a685f4ca-19d7-4da8-945f-8191e05a108e" />
 
 # Olá, eu sou o Jonathan Silva Rios! 👋
 __________________________
