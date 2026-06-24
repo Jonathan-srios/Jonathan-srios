@@ -1,4 +1,4 @@
-![Uploading Carrosell Infinito.png…]()
+![Carrossel Infinito](https://github.com/Jonathan-srios/Jonathan-srios/blob/main/Carrosell%20Infinito.png?raw=true)
 
 # Olá, eu sou o Jonathan Silva Rios! 👋
 __________________________
